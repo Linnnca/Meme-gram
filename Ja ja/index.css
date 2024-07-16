@@ -1,0 +1,126 @@
+.header {
+  background-color: #f0f0f0; /* Adjust background color as needed */
+  padding: 20px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between; /* Align items horizontally */
+  align-items: center;
+}
+
+.header-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.logout-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #0056b3;
+}
+
+h1{
+    text-align: center; 
+    color: rgb(0, 0, 0);
+  
+  }
+  h3{
+    text-align: center;
+  }
+  a {
+    position: absolute; 
+    bottom: 5;          
+    left: 5;    
+  }
+  
+ h5{
+    text-align: center;
+ }
+  body{
+    background-color: rgb(247, 247, 247);
+  }
+  #imagemCanto {
+    background-image: url('https://images-americanas.b2w.io/produtos/3952495581/imagens/mcqueen-dinoco-azul-filme-carros-disney-miniatura-1-55/3952495581_1_medium.jpg');
+    background-size: cover; 
+    margin: auto;
+    left: 0;
+    right: 0;
+    right: 10; 
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%;
+
+  }
+  
+  
+   h4{
+    text-align: center;
+  }
+ .imagem-amigo {
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px; 
+}
+
+#Imagem_de_amigo_1 {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAeMb5rPt7863K2RDd3NUXNqubog_uRwQ2A&s');
+}
+
+#Imagem_de_amigo_2 {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6-X1CaFu2PM_lqFkW7dojDiJo_YJbiBh9w&s');
+}
+#Imagem_de_amigo_3 {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd32L838-HurhCLW3PbbUidkhdD3PTxF3d3w&s');
+}
+#Imagem_de_amigo_4 {
+  background-image: url('https://i.pinimg.com/736x/d6/4c/b3/d64cb334bf6c5e2dae08f6c947757477.jpg');
+}
+
+
+
+
+
+
+.imagem-amigo-nome {
+  display: block;
+  margin-top: 100px; 
+  text-align: center;
+}
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: px;
+  text-align: center;
+}
+
+.footer-container {
+  max-width: 150px;
+  margin: 0 auto;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 10;
+  margin: 10;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.footer-links a {
+  color: #ffffff;
+  text-decoration: none;
+}
